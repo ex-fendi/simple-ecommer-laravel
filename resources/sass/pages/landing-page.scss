@@ -1,0 +1,14 @@
+.featured-section {
+    padding: 40px 0;
+
+    .products {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 60px $gutter;
+
+        .product-price {
+            color: $text-color-light !important;
+        }
+    }
+}
+

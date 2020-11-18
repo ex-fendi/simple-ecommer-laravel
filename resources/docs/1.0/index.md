@@ -1,0 +1,3 @@
+- ## Get Started
+    - [Dokumentasi](/{{route}}/{{version}}/overview)
+    - [Cooming Son](/{{route}}/{{version}}/percobaan2)

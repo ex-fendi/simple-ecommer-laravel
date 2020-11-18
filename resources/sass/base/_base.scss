@@ -1,0 +1,53 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: $text-category;
+
+
+    &:visited {
+        color: $text-category;
+    }
+
+    &:hover {
+        color: #ffffff;
+    }
+
+}
+
+.jenis {
+    text-decoration: none;
+    color: $text-category;
+
+
+    &:visited {
+        color: $text-category;
+    }
+
+    &:hover {
+        color: blue;
+    }
+
+}
+
+.logo a {
+    color: $white;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+img {
+    max-width: 100%;
+}
